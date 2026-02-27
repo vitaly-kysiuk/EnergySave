@@ -12,4 +12,4 @@
 *   **WinAPI (P/Invoke)**.
 *   **WMI (System.Management)**.
 
-<img width="565" height="415" alt="image_2025-11-24_14-42-08" src="https://github.com/user-attachments/assets/0920f176-e5a1-46aa-a20f-505c4d404476" />
+<img width="424" height="339" alt="image" src="https://github.com/user-attachments/assets/12fa46a6-273f-45f5-ab0d-288d8f0c1ada" />
